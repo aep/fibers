@@ -1,5 +1,5 @@
-middleware for go fiber
------------------------
+middleware for gin-gonic
+------------------------
 
 
 
